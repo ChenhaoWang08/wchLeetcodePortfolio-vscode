@@ -4,6 +4,8 @@ Built for learning programs and establish records. Each topic will be catagorize
 Programs not written in leetcode will be symbolized by 🛑 (execution methods)
 Full Notion Tracker: https://comet-stinger-1cb.notion.site/2a29eec472bc8066903cc8cd0281893d?v=2a29eec472bc80a39eb2000c310bd40e&source=copy_link
 
+In Notion, there will be my python learning notes and program logic for conmumdrums listed and organized.
+
 
 ##Solved Problems
 ###array
